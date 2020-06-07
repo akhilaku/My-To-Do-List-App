@@ -15,18 +15,18 @@ We all know that one of the toughest skills for majority of the people in the wo
 
 1. In the same way, we should be able to delete the items from the list. We have to select a particular item and want to delete it using button **"Delete"**, that is to remove the item from the list using **Kotlin Programming.**
  
-1. And we have to include the **List View Checkbox** and make it more functional using *Kotlin Program.**
+1. And we have to include the **List View Checkbox** and make it more functional using **Kotlin Program.**
 
 1. We should be able to clear the entire list using a **"Clear"** button.
 
 The buttons such as **"Add", "Delete"** and **"Clear"** perform the desired operations only if we do the required coding(Programming).
 
-<img src = https://github.com/akhilaku/My-To-Do-List-App/blob/master/Screenshots-Of-App/Screenshot-1.jpg>
+<img src = https://github.com/akhilaku/My-To-Do-List-App/blob/master/Screenshots-Of-App/Screenshot-1.jpg border="5">
 
-<img src = https://github.com/akhilaku/My-To-Do-List-App/blob/master/Screenshots-Of-App/Screenshot-2.jpg width=369 height=800>
+<img src = https://github.com/akhilaku/My-To-Do-List-App/blob/master/Screenshots-Of-App/Screenshot-2.jpg width=369 height=800 border="5">
 
-<img src = https://github.com/akhilaku/My-To-Do-List-App/blob/master/Screenshots-Of-App/Screenshot-3.jpg>
+<img src = https://github.com/akhilaku/My-To-Do-List-App/blob/master/Screenshots-Of-App/Screenshot-3.jpg border="5">
 
-<img src = https://github.com/akhilaku/My-To-Do-List-App/blob/master/Screenshots-Of-App/Screenshot-4.jpg width=369 height=800>
+<img src = https://github.com/akhilaku/My-To-Do-List-App/blob/master/Screenshots-Of-App/Screenshot-4.jpg width=369 height=800 border="5">
 
-<img src = https://github.com/akhilaku/My-To-Do-List-App/blob/master/Screenshots-Of-App/Screenshot-5.jpg>
+<img src = https://github.com/akhilaku/My-To-Do-List-App/blob/master/Screenshots-Of-App/Screenshot-5.jpg border="5">
