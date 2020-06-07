@@ -21,12 +21,12 @@ We all know that one of the toughest skills for majority of the people in the wo
 
 The buttons such as **"Add", "Delete"** and **"Clear"** perform the desired operations only if we do the required coding(Programming).
 
-<img src = https://github.com/akhilaku/My-To-Do-List-App/blob/master/Screenshots-Of-App/Screenshot-1.jpg border="5">
+<img src = https://github.com/akhilaku/My-To-Do-List-App/blob/master/Screenshots-Of-App/Screenshot-1.jpg>
 
-<img src = https://github.com/akhilaku/My-To-Do-List-App/blob/master/Screenshots-Of-App/Screenshot-2.jpg width=369 height=800 border="5">
+<img src = https://github.com/akhilaku/My-To-Do-List-App/blob/master/Screenshots-Of-App/Screenshot-2.jpg width=369 height=800>
 
-<img src = https://github.com/akhilaku/My-To-Do-List-App/blob/master/Screenshots-Of-App/Screenshot-3.jpg border="5">
+<img src = https://github.com/akhilaku/My-To-Do-List-App/blob/master/Screenshots-Of-App/Screenshot-3.jpg>
 
-<img src = https://github.com/akhilaku/My-To-Do-List-App/blob/master/Screenshots-Of-App/Screenshot-4.jpg width=369 height=800 border="5">
+<img src = https://github.com/akhilaku/My-To-Do-List-App/blob/master/Screenshots-Of-App/Screenshot-4.jpg width=369 height=800>
 
-<img src = https://github.com/akhilaku/My-To-Do-List-App/blob/master/Screenshots-Of-App/Screenshot-5.jpg border="5">
+<img src = https://github.com/akhilaku/My-To-Do-List-App/blob/master/Screenshots-Of-App/Screenshot-5.jpg>
