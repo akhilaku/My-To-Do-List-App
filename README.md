@@ -1,4 +1,4 @@
-# My To-Do-List App
+# My To-Do-List Application
 
 **I created this application by learning Kotlin Programming language in 30-Days as a part of 30-Days of Kotlin. 30-Days of Kotlin with Google Developers is an initiative to improve our understanding of Kotlin and to apply it in real projects using Google resources from May-07 to June-07.
 This is a To-Do-List Application created on Android Studios using Kotlin programming language**
@@ -23,15 +23,15 @@ We all know that one of the toughest skills for majority of the people in the wo
 
 --- 
 
-## Screenshots of My To-Do-List Application
+## Screenshots of My "To-Do-List" Application
 
-### Icon of my "My To-Do-List" Application in an Android phone.
+### Icon of my "To-Do-List" Application in an Android phone.
 
 <kbd><img src = https://github.com/akhilaku/My-To-Do-List-App/blob/master/Screenshots-Of-App/Screenshot-1.jpg style="border: 1px solid black"/></kbd>
 
 ---
 
-### Opening View of "My To-Do-List" App
+### Opening View of "To-Do-List" App
 
 <kbd><img src = https://github.com/akhilaku/My-To-Do-List-App/blob/master/Screenshots-Of-App/Screenshot-2.jpg width=369 height=800 style="border: 1px solid black"></kbd>
 
