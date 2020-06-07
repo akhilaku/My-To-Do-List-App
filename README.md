@@ -7,7 +7,7 @@ This is a To-Do-List Application created on Android Studios using Kotlin program
 
 We all know that one of the toughest skills for majority of the people in the world is mastering to stay organized every day. That is why we need to use To-Do-List Application. The To-Do-List App works well for storing the list of things that we should do everyday without forgetting. For doing the Daily routines without forgetting. We can store all the things we want to do as items in a list.
 
-#### The Specific Description of the Application is given in below:
+### The Specific Description of the Application is given in below:
 
 1. The application must able to store the items or entries in a list, we use **"ListView"** for this.
 
@@ -23,7 +23,7 @@ The buttons such as **"Add", "Delete"** and **"Clear"** perform the desired oper
 
 <img src = https://github.com/akhilaku/My-To-Do-List-App/blob/master/Screenshots-Of-App/Screenshot-1.jpg>
 
-<img src = https://github.com/akhilaku/My-To-Do-List-App/blob/master/Screenshots-Of-App/Screenshot-2.jpg>
+<img src = https://github.com/akhilaku/My-To-Do-List-App/blob/master/Screenshots-Of-App/Screenshot-2.jpg width=369 height=800>
 
 <img src = https://github.com/akhilaku/My-To-Do-List-App/blob/master/Screenshots-Of-App/Screenshot-3.jpg>
 
