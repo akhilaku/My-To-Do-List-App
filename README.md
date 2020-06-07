@@ -42,14 +42,16 @@ The buttons such as **"Add", "Delete"** and **"Clear"** perform the desired oper
 
 <kbd><img src = https://github.com/akhilaku/My-To-Do-List-App/blob/master/Screenshots-Of-App/Screenshot-3.jpg style="border: 1px solid black"></kbd>
 
+---
+
 ### Ticking the completed task.
-### A particular completed task can be deleted by clicking on the clicking on the tick box and by clicking the "DELETE" Button.
+#### A particular completed task can be deleted by clicking on the clicking on the tick box and by clicking the "DELETE" Button.
 
 <kbd><img src = https://github.com/akhilaku/My-To-Do-List-App/blob/master/Screenshots-Of-App/Screenshot-4.jpg width=369 height=800 style="border: 1px solid black"></kbd>
 
 ---
 
-### Horizontal View of Application (Application is compatible with Auto-Rotation) It is done by giving equal weights for the layout;
+### Horizontal View of Application (Application is compatible with Auto-Rotation) It is done by giving equal weights for the layout_weight attribute.
 
 <kbd><img src = https://github.com/akhilaku/My-To-Do-List-App/blob/master/Screenshots-Of-App/Screenshot-5.jpg style="border: 1px solid black"></kbd>
 
