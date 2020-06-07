@@ -19,7 +19,7 @@ We all know that one of the toughest skills for majority of the people in the wo
 
 1. We should be able to clear the entire list using a **"Clear"** button.
 
-The buttons such as **"Add", "Delete"** and **"Clear"** perform the desired operations only if we do the required coding(Programming).
+**The buttons such as "Add", "Delete" and "Clear" perform the desired operations only if we do the required coding(Programming).**
 
 --- 
 
