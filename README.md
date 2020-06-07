@@ -23,19 +23,33 @@ The buttons such as **"Add", "Delete"** and **"Clear"** perform the desired oper
 
 --- 
 
+## Screenshots of My To-Do-List Application
+
+### Icon of my "My To-Do-List" Application in an Android phone.
+
 <kbd><img src = https://github.com/akhilaku/My-To-Do-List-App/blob/master/Screenshots-Of-App/Screenshot-1.jpg style="border: 1px solid black"/></kbd>
 
 ---
 
+### Opening View of "My To-Do-List" App
+
 <kbd><img src = https://github.com/akhilaku/My-To-Do-List-App/blob/master/Screenshots-Of-App/Screenshot-2.jpg width=369 height=800 style="border: 1px solid black"></kbd>
 
 ---
+### Adding the list items into list using "ADD" button.
+
+**Here you can type your to-do list items in the "Add an Item" area and you can click on the Button "ADD" to enter it into the list.**
 
 <kbd><img src = https://github.com/akhilaku/My-To-Do-List-App/blob/master/Screenshots-Of-App/Screenshot-3.jpg style="border: 1px solid black"></kbd>
+
+### Ticking the completed task.
+### A particular completed task can be deleted by clicking on the clicking on the tick box and by clicking the "DELETE" Button.
 
 <kbd><img src = https://github.com/akhilaku/My-To-Do-List-App/blob/master/Screenshots-Of-App/Screenshot-4.jpg width=369 height=800 style="border: 1px solid black"></kbd>
 
 ---
+
+### Horizontal View of Application (Application is compatible with Auto-Rotation) It is done by giving equal weights for the layout;
 
 <kbd><img src = https://github.com/akhilaku/My-To-Do-List-App/blob/master/Screenshots-Of-App/Screenshot-5.jpg style="border: 1px solid black"></kbd>
 
