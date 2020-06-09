@@ -51,7 +51,7 @@ We all know that one of the toughest skills for majority of the people in the wo
 ---
 
 ### Ticking the completed task.
-#### A particular completed task can be deleted by clicking on the clicking on the tick box and by clicking the "DELETE" Button.
+#### A particular completed task can be deleted by clicking on the tick box and by clicking the "DELETE" Button.
 
 <p align="center">
 <kbd><img src = https://github.com/akhilaku/My-To-Do-List-App/blob/master/Screenshots-Of-App/Screenshot-4.jpg width=369 height=800 style="border: 1px solid black"></kbd>
