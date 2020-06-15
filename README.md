@@ -67,7 +67,7 @@ We all know that one of the toughest skills for majority of the people in the wo
 
 
 <p align="center">
-<kbd><img src = https://github.com/akhilaku/My-To-Do-List-App/blob/master/Screenshots-Of-App/Screenshot-5.jpg style="border: 1px solid black"  width=250 height=500></kbd>
+<kbd><img src = https://github.com/akhilaku/My-To-Do-List-App/blob/master/Screenshots-Of-App/Screenshot-5.jpg style="border: 1px solid black"  height=250 width=500></kbd>
 </p>
 
 ---
