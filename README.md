@@ -29,7 +29,7 @@ We all know that one of the toughest skills for majority of the people in the wo
 
 
 <p align="center">
-<kbd><img src = https://github.com/akhilaku/My-To-Do-List-App/blob/master/Screenshots-Of-App/Screenshot-1.jpg style="border: 1px solid black"/></kbd>
+<kbd><img src = https://github.com/akhilaku/My-To-Do-List-App/blob/master/Screenshots-Of-App/Screenshot-1.jpg style="border: 1px solid black" width=250 height=500/></kbd>
 </p>
 
 ---
@@ -38,7 +38,7 @@ We all know that one of the toughest skills for majority of the people in the wo
 
 
 <p align="center">
-<kbd><img src = https://github.com/akhilaku/My-To-Do-List-App/blob/master/Screenshots-Of-App/Screenshot-2.jpg width=369 height=800 style="border: 1px solid black"></kbd>
+<kbd><img src = https://github.com/akhilaku/My-To-Do-List-App/blob/master/Screenshots-Of-App/Screenshot-2.jpg  width=250 height=500 style="border: 1px solid black"></kbd>
 </p>
 
 ---
@@ -48,7 +48,7 @@ We all know that one of the toughest skills for majority of the people in the wo
 
 
 <p align="center">
-<kbd><img src = https://github.com/akhilaku/My-To-Do-List-App/blob/master/Screenshots-Of-App/Screenshot-3.jpg style="border: 1px solid black"></kbd>
+<kbd><img src = https://github.com/akhilaku/My-To-Do-List-App/blob/master/Screenshots-Of-App/Screenshot-3.jpg style="border: 1px solid black"  width=250 height=500></kbd>
 </p>
 
 ---
@@ -58,7 +58,7 @@ We all know that one of the toughest skills for majority of the people in the wo
 
 
 <p align="center">
-<kbd><img src = https://github.com/akhilaku/My-To-Do-List-App/blob/master/Screenshots-Of-App/Screenshot-4.jpg width=369 height=800 style="border: 1px solid black"></kbd>
+<kbd><img src = https://github.com/akhilaku/My-To-Do-List-App/blob/master/Screenshots-Of-App/Screenshot-4.jpg  width=250 height=500 style="border: 1px solid black"></kbd>
 </p>
 
 ---
@@ -67,7 +67,7 @@ We all know that one of the toughest skills for majority of the people in the wo
 
 
 <p align="center">
-<kbd><img src = https://github.com/akhilaku/My-To-Do-List-App/blob/master/Screenshots-Of-App/Screenshot-5.jpg style="border: 1px solid black"></kbd>
+<kbd><img src = https://github.com/akhilaku/My-To-Do-List-App/blob/master/Screenshots-Of-App/Screenshot-5.jpg style="border: 1px solid black"  width=250 height=500></kbd>
 </p>
 
 ---
