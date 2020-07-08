@@ -5,7 +5,7 @@ This is a To-Do-List Application created on Android Studios using Kotlin program
 
 ### What is a To-Do-List Application?
 
-We all know that one of the toughest skills for majority of the people in the world is mastering to stay organized every day. That is why we need to use To-Do-List Application. The To-Do-List App works well for storing the list of things that we should do everyday without forgetting. For doing the Daily routines without forgetting. We can store all the things we want to do as items in a list.
+**We all know that one of the toughest skills for majority of the people in the world is mastering to stay organized every day. That is why we need to use To-Do-List Application. The To-Do-List App works well for storing the list of things that we should do everyday without forgetting. For doing the Daily routines without forgetting. We can store all the things we want to do as items in a list.**
 
 ### The Specific Description of the Application is given in below:
 
